@@ -1,8 +1,7 @@
 
-https://www.git-scm.com/
+Go to the: https://www.git-scm.com/
 
-
-go to cmd:
+go to cmd: Start => cmd
 
 git
 
@@ -14,9 +13,9 @@ git config --global core.editor "notepad"
 
 d:
 
-mkdir gitProject
+mkdir gitProjects
 
-cd gitProject
+cd gitProjects
 
 git clone https://github.com/HesamMarshal/PythonTutorial.git
 
