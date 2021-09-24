@@ -11,4 +11,3 @@ height = 15
 area = width * height
 
 print(F"Area = {area}")
-
