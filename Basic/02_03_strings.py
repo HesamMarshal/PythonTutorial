@@ -1,3 +1,10 @@
+##########################################
+# This code is created by Hesam Marshal  #
+# Website : HesamMarshal.ir              #
+# instagram: @HesamMarshal               #
+##########################################
+
+
 course_name = "Python Programming"
 # Standard python strings
 # print(course_name[0])

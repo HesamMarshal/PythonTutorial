@@ -1,3 +1,10 @@
+##########################################
+# This code is created by Hesam Marshal  #
+# Website : HesamMarshal.ir              #
+# instagram: @HesamMarshal               #
+##########################################
+
+
 width = int(input("Please enter the width: "))
 height = int(input("Please enter the height: "))
 
