@@ -55,7 +55,7 @@ def sum_numpy(n=100_000_000):
 
 print("While Loop \t\t", timeit(while_loop, number=1))
 print("For Loop \t\t", timeit(for_loop, number=1))
-# print('for + inc \t\t', timeit(for_loop_inc, number=1))
-# print('for + test\t\t', timeit(for_loop_test, number=1))
-# print('for inctest\t\t', timeit(for_loop_inc_test, number=1))
+print('for + inc \t\t', timeit(for_loop_inc, number=1))
+print('for + test\t\t', timeit(for_loop_test, number=1))
+print('for inctest\t\t', timeit(for_loop_inc_test, number=1))
 print('sum numpy\t\t', timeit(sum_numpy, number=1))
