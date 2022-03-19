@@ -1,3 +1,6 @@
 __pycache__
 .idea/
 idea/
+.vscode/
+.vscode/settings.json
+
