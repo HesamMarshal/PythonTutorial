@@ -6,12 +6,12 @@
 ##########################################
 
 
-# Two Layer
+# Two Layers
 for i in range(1, 11):
     for j in range(1, 11):
         print(f'{i} * {j}= {i*j}')
 
-# Three Layer
+# Three Layers
 for i in range(1, 11):
     for j in range(1, 11):
         for k in range(1, 11):
