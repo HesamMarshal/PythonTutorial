@@ -1,24 +1,50 @@
+<a href="https://chaptera.ir"><img src="https://chaptera.ir/wp-content/uploads/2022/03/Chaptera_colored_logo_199_32.png" width="199" height="32" align="right" /></a>
 
-# The codes I am teaching in my Python course
-This is a HowTo for getting the codes:
-* Download and Install git
-    * Go to the: https://www.git-scm.com/
-    * Download git and install it
+# کدهایی که در دوره آموزشی پایتون آموزش داده می‌شود
 
-* Configure the git:
-    * go to cmd: Start => cmd
-    * git --version
+## ارتباط با من
 
-    * git config --global user.name "Hesam Marshal"
+<a href="chaptera.ir"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  width="22px" alt="Hesam Marshal" /></a> <a href="https://www.linkedin.com/in/hesam-akrami/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  width="22px" alt="Hesam Marshal" /></a> <a href="https://www.instagram.com/HesamMarshal/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px" alt="Hesam Marshal" /></a>
 
-    * git config --global user.email "youremail@gmail.com"
+## 📺 آخرین ارسال‌های اینستاگرام
+<a href="https://www.instagram.com/p/Cbc_rwxgv_2/"> حلقه while</a>
 
-    * git config --global core.editor "notepad"
-* Clone the repo
-    * d:
-    * mkdir gitProjects
-    * cd gitProjects
-    * git clone https://github.com/HesamMarshal/PythonTutorial.git
+<a href="https://www.instagram.com/p/CbSwfx1MKnM/"> کیبرد مجازی با بینایی ماشین</a>
 
-* Everyttime you need new codes use
-    * git pull
+<a href="https://www.instagram.com/p/CbLIfuQMOBI/"> حلقه for تو در تو</a>
+
+<a href="https://www.instagram.com/p/CbAhKLPss1A/"> حلقه for</a>
+
+
+
+## 📖 مستندات 
+
+### 📦دانلود و نصب گیت
+* Go to the: https://www.git-scm.com/
+* Download git and install it
+
+### پیکربندی گیت:
+
+Start => cmd
+```bash
+git --version
+git config --global user.name "Hesam Marshal"
+git config --global user.email "youremail@gmail.com"
+git config --global core.editor "notepad"
+```
+
+### کلون کردن مخزن کدها
+
+```bash
+d:
+mkdir gitProjects
+cd gitProjects
+git clone https://github.com/HesamMarshal/PythonTutorial.git
+```
+     
+
+### هرگاه نیاز به کدهای جدید داشتید دستور زیر را اجرا نمایید
+
+```bash
+git pull
+```
