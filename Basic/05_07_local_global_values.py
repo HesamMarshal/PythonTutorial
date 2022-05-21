@@ -3,7 +3,7 @@
 # This code is created by Hesam Marshal  #
 # Website : Chaptera.ir                  #
 # instagram: @HesamMarshal               #
-# Local nd global Values                 #
+# Local and global Values                 #
 ##########################################
 lastname = "Akrami"
 
