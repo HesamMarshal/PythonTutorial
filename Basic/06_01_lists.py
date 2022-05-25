@@ -1,3 +1,10 @@
+##########################################
+# This code is created by Hesam Marshal  #
+# Website : Chaptera.ir                  #
+# instagram: @HesamMarshal               #
+# Lists                                  #
+##########################################
+
 chars = ['a', 'b', 'c', 'x']
 nums = [1, 2, 3, 4]
 nums2 = [5, 6, 7, 8]
