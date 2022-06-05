@@ -1,3 +1,10 @@
+##########################################
+# This code is created by Hesam Marshal  #
+# Website : Chaptera.ir                  #
+# instagram: @HesamMarshal               #
+# List loop over items                   #
+##########################################
+
 letters = ["a", "b", "c", "d"]
 
 # for letter in letters:
