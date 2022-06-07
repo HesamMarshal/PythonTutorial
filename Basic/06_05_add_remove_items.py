@@ -9,6 +9,7 @@ letters = ["a", "b", "c"]
 # print("before append: ", letters)
 letters.append("d")
 letters.append("e")
+letters[5] = 'x'
 # print("after append: ", letters)
 
 
