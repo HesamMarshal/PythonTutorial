@@ -4,7 +4,7 @@
 
 ## ارتباط با من
 
-<a href="chaptera.ir"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  width="22px" alt="Hesam Marshal" /></a> <a href="https://www.linkedin.com/in/hesam-akrami/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  width="22px" alt="Hesam Marshal" /></a> <a href="https://www.instagram.com/HesamMarshal/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px" alt="Hesam Marshal" /></a>
+<a href="chaptera.ir"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  width="22px" alt="Chaptera.ir" /></a> <a href="https://www.linkedin.com/in/hesam-akrami/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  width="22px" alt="Hesam Marshal's linkedin" /></a> <a href="https://www.instagram.com/HesamMarshal/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px" alt="Hesam Marshal's Instagram" /></a>
 
 ## 📺 آخرین ارسال‌های اینستاگرام
 <a href="https://www.instagram.com/p/Cbc_rwxgv_2/"> حلقه while</a>
