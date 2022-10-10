@@ -48,3 +48,5 @@ git clone https://github.com/HesamMarshal/PythonTutorial.git
 ```bash
 git pull
 ```
+### License
+This project is licensed under [MIT LICENSE](LICENSE).
