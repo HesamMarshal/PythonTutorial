@@ -17,3 +17,4 @@ height = 15
 area = width * height
 
 print(F"Area = {area}")
+print(format(20/3, '.2f'))
